@@ -29,4 +29,11 @@ To test normal behaviour, run a normal ping (within the limits) from h1 to h2 - 
 To test the blocking, run - h1 ping -c 10 -s 1000 h2
 
 To view the flow tables, open another terminal and type - sudo ovs-ofctl dump-flows s1 -O OpenFlow10
-
+### Flowtable
+![Flowtable](images/flowtable.jpeg)
+### Ping Test (mininet)
+![Ping Test (mininet)](images/Behaviour (mininet side).jpeg)
+### Ping Test (client)
+![Ping Test (client)](images/Behaviour (control side).jped)
+### Perf Test
+![Perf Test](images/perf after block.png)
