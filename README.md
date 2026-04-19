@@ -32,8 +32,8 @@ To view the flow tables, open another terminal and type - sudo ovs-ofctl dump-fl
 ### Flowtable
 ![Flowtable](images/flowtable.jpeg)
 ### Ping Test (mininet)
-![Ping Test (mininet)](images/Behaviour (mininet side).jpeg)
+![Ping Test (mininet)](images/Behaviour_(mininet_side).jpeg)
 ### Ping Test (client)
-![Ping Test (client)](images/Behaviour (control side).jped)
+![Ping Test (client)](images/Behaviour_(control_side).jped)
 ### Perf Test
-![Perf Test](images/perf after block.png)
+![Perf Test](images/perf_after_block.png)
