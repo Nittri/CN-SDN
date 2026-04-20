@@ -37,3 +37,5 @@ To view the flow tables, open another terminal and type - sudo ovs-ofctl dump-fl
 ![Ping Test (client)](images/Behaviour_(control_side).jpeg)
 ### Perf Test
 ![Perf Test](images/perf_after_block.jpeg)
+### Wireshark output
+<img width="655" height="839" alt="image" src="https://github.com/user-attachments/assets/6414d2c9-f77d-489a-a29d-f5015edfcc90" />
